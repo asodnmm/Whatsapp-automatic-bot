@@ -19,3 +19,4 @@ It opens whatsapp web at chrome.Scan qr code with your phone.If you didnt know h
 After scan open settings and click your profile.
 Return to "whatsapp.py" press any key and enter to start.
 It should work right.
+Dont write long sentences.
