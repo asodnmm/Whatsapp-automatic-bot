@@ -1,0 +1,21 @@
+First of all you should download python at this link: https://www.python.org/downloads/
+After download,open python and write this codes:
+
+pip install selenium
+
+After installing selenium:
+
+pip install time
+
+After installing this libraries, you can close python.
+After this steps open "about.txt" delete all and write your words that you want to change.
+Example:
+hi
+hello
+whatsapp
+
+Save and close "about.txt" and you can start whatsappbot.py now
+It opens whatsapp web at chrome.Scan qr code with your phone.If you didnt know how to scan, you can learn this at google.
+After scan open settings and click your profile.
+Return to "whatsapp.py" press any key and enter to start.
+It should work right.
